@@ -1,0 +1,2299 @@
+
+html {
+	font-size:54.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.4rem;
+}.component-1-S2q {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #041334;
+}
+.component-1-S2q .header-6t5 {
+  /* margin: -1rem 0.4rem 8rem -9rem; */
+  box-sizing: border-box;
+  margin-bottom: 8rem;
+  /* border: 1px solid red; */
+  padding: 2.3rem 7.7rem 1.337rem 8.8rem;
+  width: 100%;
+  height: 10rem;
+  backdrop-filter: blur(5rem);
+  background-color: #0a1939;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .logo-eKF {
+  width: 28.5rem;
+  height: 3.3628rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H {
+  box-sizing: border-box;
+  padding: 0.481rem 0rem 0.481rem 20rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .nav-menu-tDb {
+  margin: 0.05rem 20rem 0.05rem 0rem;
+  height: calc(100% - 0.1rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .nav-menu-tDb .cryptocurrencies-acD {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .nav-menu-tDb .exchanges-3Xj {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .nav-menu-tDb .community-yRP {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .nav-menu-tDb .trades-gqb {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .header-6t5 .frame-61-yD7 .auto-group-mjob-B4H .vector-D4q {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .group-86-rtV {
+  margin: 0rem 29.5rem 6.5rem 0rem;
+  width: 94.1rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .group-86-rtV .todays-cryptocurrency-prices-by-market-cap-bLH {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ {
+  width: 100%;
+  height: 3rem;
+  position: relative;
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .vector-x4M {
+  width: 1.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 57.4rem;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD {
+  width: 94.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD-sub-0 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD-sub-2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD-sub-3 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .group-86-rtV .group-85-nvZ .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD .the-global-cryptocurrency-market-cap-today-is-8117b-a-017-decrease-in-the-last-24-hours-TvD-sub-4 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .crypto-chart-1eD {
+  margin: 0rem 11.6rem 4rem 12.1rem;
+  width: calc(100% - 23.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK .name-NdB {
+  margin-right: 32.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK .price-74y {
+  margin-right: 15rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK .h-change-C6R {
+  margin-right: 12.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK .chart-uWd {
+  margin-right: 15.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-71-2ZK .marketcap-Rzm {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .px-bitcoin-gvh {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .bitcoin-zRb {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .btc-jPB {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .item-362524-5C9 {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .item-24-otq {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .vector-3-s81 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-fxjf-VpH .group-72-ZbB .item-320893271955-Ps3 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .png-transparent-ethereum-eth-hd-logo-1tR {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .ethereum-Lfo {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .eth-dQ1 {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .item-121818-yTs {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .item-07-K1w {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .vector-5-EPo {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-73-WRs .item-148563792762-LSq {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 {
+  box-sizing: border-box;
+  padding: 3.2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .shibainucoinlogo-iCV {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .shibuinu-FTK {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .shibu-mgZ {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .item-0001-v3f {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .item-12-ri1 {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .vector-4-157 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-74-mo3 .item-4498804882-gS9 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .px-bitcoin-JyK {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .bitcoin-Fdf {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .btc-PE5 {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .item-362524-hEm {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .item-24-EVb {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .vector-3-a3f {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-xkid-fV7 .group-75-AcD .item-320893271955-soT {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .png-transparent-ethereum-eth-hd-logo-hGh {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .ethereum-c8m {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .eth-MMF {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .item-121818-6Zj {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .item-07-dJm {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .vector-5-N1T {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-77-kMT .item-148563792762-6y3 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB {
+  box-sizing: border-box;
+  padding: 3.2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .shibainucoinlogo-1yX {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .shibuinu-MnV {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .shibu-u3K {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .item-0001-eFo {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .item-12-mbK {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .vector-4-K73 {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-76-vBP .item-4498804882-rsf {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .px-bitcoin-wu7 {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .bitcoin-Vfj {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .btc-y57 {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .item-362524-JdB {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .item-24-cds {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .vector-3-kEH {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-zg1b-CmB .group-78-o2D .item-320893271955-6J9 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .png-transparent-ethereum-eth-hd-logo-9GR {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .ethereum-Grq {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .eth-Dn5 {
+  margin-right: 16.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .item-121818-Lbo {
+  margin-right: 17.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .item-07-ecV {
+  margin-right: 16.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff0000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .vector-5-Ppy {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .group-82-cnH .item-148563792762-Jh3 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV {
+  margin-bottom: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .shibainucoinlogo-t9T {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .shibuinu-1zm {
+  margin-right: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .shibu-Moj {
+  margin-right: 15.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .item-0001-rEh {
+  margin-right: 19.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .item-12-xHj {
+  margin-right: 16.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .vector-4-J6h {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-80-YLV .item-4498804882-eRT {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .px-bitcoin-8bX {
+  margin-right: 2.3rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .bitcoin-rGd {
+  margin-right: 1.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .btc-MjB {
+  margin-right: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #848484;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .item-362524-tz1 {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .item-24-c9K {
+  margin-right: 16.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #14ff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .vector-3-Vyo {
+  margin-right: 13rem;
+  width: 5.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .crypto-chart-1eD .auto-group-sdmf-zpm .group-79-PP3 .item-320893271955-Qqs {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .btn-wL1 {
+  margin: 0rem 62rem 8rem 62.4rem;
+  width: calc(100% - 124.4rem);
+  height: 6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, #3dd8ee -0%, #0897e7 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd {
+  margin: 0rem 0rem 8rem 0.4rem;
+  box-sizing: border-box;
+  padding: 5.2rem 14.1rem 5.2rem 10rem;
+  width: 144rem;
+  height: 65.1rem;
+  background-color: #00092a;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 {
+  width: 76.4482rem;
+  height: 54.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .worl-map-HRo {
+  width: 76.4482rem;
+  height: 54.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 {
+  width: 40.8rem;
+  height: 39.2174rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 2.8rem;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .ellipse-2-GYd {
+  width: 33.1127rem;
+  height: 35.5174rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX {
+  width: 40.8rem;
+  height: 37.1439rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .ellipse-1-iQd {
+  width: 37.4358rem;
+  height: 37.1439rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB {
+  width: 40.8rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-21-8jF {
+  margin: 0rem 15.8rem 1.6rem 9rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1.3rem 0.4rem 1.2rem;
+  width: calc(100% - 24.8rem);
+  height: 6.8rem;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-21-8jF .group-16-mnD {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-21-8jF .group-16-mnD .vector-VCR {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-21-8jF .group-16-mnD .countries-ajf {
+  max-width: 10rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-7pe9-ezR {
+  margin: 0rem 7.5rem 1.9rem 5.5rem;
+  width: calc(100% - 13rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-7pe9-ezR .shibainucoinlogo-BDf {
+  margin: 0.6rem 19.8rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-7pe9-ezR .png-transparent-ethereum-eth-hd-logo-fed {
+  margin-bottom: 0.6rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-20-CPf {
+  margin: 0rem 0rem 3.7rem 24.5rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1rem 0.4rem 0.9rem;
+  width: 16.3rem;
+  height: 6.8rem;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-20-CPf .group-17-Ksb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-20-CPf .group-17-Ksb .group-seD {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .group-20-CPf .group-17-Ksb .million-trades-Q8M {
+  max-width: 10.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs {
+  margin-right: 14.6rem;
+  width: calc(100% - 14.6rem);
+  height: 6.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs .group-19-AWq {
+  margin-right: 3.5rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.859rem 0.4rem 0.9rem;
+  width: 18.7rem;
+  height: 100%;
+  background-color: #0a1b2b;
+  border-radius: 0.2rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.1000000015);
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs .group-19-AWq .group-18-thj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs .group-19-AWq .group-18-thj .vector-3qX {
+  margin: 0.1rem 1rem 0rem 0rem;
+  width: 2.4409rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs .group-19-AWq .group-18-thj .trading-pairs-Zos {
+  max-width: 13.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .map-Ac5 .group-89-xH3 .group-88-zjX .group-87-eZB .auto-group-nacd-FPs .px-bitcoin-D7j {
+  margin-bottom: 0.6rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM {
+  width: 45.8rem;
+  height: 54rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .we-are-the-most-trusted-cryptocurrency-platform-eD3 {
+  margin-bottom: 2.5rem;
+  max-width: 45.8rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-L5s {
+  max-width: 44.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y {
+  box-sizing: border-box;
+  padding-top: 3.5rem;
+  width: 100%;
+  row-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 .group-22-h4q {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 3rem 2.5rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 .group-22-h4q .vector-EaZ {
+  width: 3rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 .auto-group-wkpd-K6D {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 .auto-group-wkpd-K6D .clarity-sdX {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-qprb-xN9 .auto-group-wkpd-K6D .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-Cvh {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs .group-23-FPB {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2.7rem 2.5rem 2.8rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs .group-23-FPB .vector-z5s {
+  width: 2.5rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs .auto-group-squb-WK7 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs .auto-group-squb-WK7 .confidence-3K3 {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-vtyw-7Xs .auto-group-squb-WK7 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-yyP {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 {
+  margin-right: 2.8rem;
+  width: calc(100% - 2.8rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 .group-24-yM7 {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 2.8rem 2.7rem 2.7rem 2.8rem;
+  height: 100%;
+  background-color: #0f1535;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 .group-24-yM7 .vector-JuB {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 .auto-group-3sgy-F3j {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 .auto-group-3sgy-F3j .community-cQ5 {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .map-vxd .group-26-R8h .group-25-uWM .auto-group-5m7t-d4y .auto-group-jkmf-FR7 .auto-group-3sgy-F3j .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elitnunc-vulputate-xTw {
+  max-width: 32.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu {
+  margin: 0rem 9.9rem 8rem 10.4rem;
+  width: calc(100% - 20.3rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb {
+  margin: 0rem 10.2rem 1.3rem 0rem;
+  width: 53.8rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .reason-to-invest-in-cryptocurrency-in-2022-813 {
+  margin-bottom: 7rem;
+  max-width: 42.6rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB {
+  width: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-30-gRs {
+  width: 100%;
+  height: 10.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-30-gRs .vector-e7o {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-30-gRs .group-27-zhT {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-30-gRs .group-27-zhT .buying-bitcoin-in-legal-kgd {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-30-gRs .group-27-zhT .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-gaH {
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-28-vzR {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-28-vzR .auto-group-8cgm-J5s {
+  margin: 0rem 27.9rem 0.5rem 0rem;
+  width: calc(100% - 27.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-28-vzR .auto-group-8cgm-J5s .vector-csF {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-28-vzR .auto-group-8cgm-J5s .high-return-potential-ZGh {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-28-vzR .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-eow {
+  margin-left: 4.5rem;
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-29-7xR {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-29-7xR .auto-group-meum-q7j {
+  margin: 0rem 16.6rem 0.5rem 0rem;
+  width: calc(100% - 16.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-29-7xR .auto-group-meum-q7j .vector-ZpR {
+  margin-right: 1.5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-29-7xR .auto-group-meum-q7j .growing-alternative-assest-class-7qw {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-bwuj-Bbb .group-31-wjB .group-29-7xR .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-vulputate-libero-et-velit-interdum-ac-aliquet-odio-mattis-class-aptent-taciti-sociosqu-ad-T97 {
+  margin-left: 4.5rem;
+  max-width: 49.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj {
+  width: 60.1rem;
+  height: 53.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 {
+  opacity: 0.5;
+  width: 60.1rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.8rem;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .auto-group-v4ih-KKj {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .auto-group-v4ih-KKj .group-32-UTX {
+  width: 58.35rem;
+  height: 6.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .auto-group-v4ih-KKj .group-33-1yF {
+  box-sizing: border-box;
+  padding: 3.5rem 6.9rem 3.25rem 6.9rem;
+  width: 58.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-7.png');
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .auto-group-v4ih-KKj .group-33-1yF .ellipse-4-kvq {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #5d3a5c;
+  border-radius: 0.5rem;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .group-34-rys {
+  box-sizing: border-box;
+  padding: 0.8rem 10.45rem;
+  width: 100%;
+  height: 5.35rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-8.png');
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .group-34-rys .ellipse-5-Le9 {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #4a7e89;
+  border-radius: 0.5rem;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .group-35-4a9 {
+  width: 58.5rem;
+  height: 8.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .group-36-pJR {
+  box-sizing: border-box;
+  padding: 0.9rem 10.3rem;
+  width: 100%;
+  height: 5.35rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-10.png');
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-37-3t1 .group-36-pJR .ellipse-7-wtq {
+  width: 1rem;
+  height: 1rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #717171;
+  border-radius: 0.5rem;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR {
+  box-sizing: border-box;
+  padding: 4.4rem 3.8rem 4.4rem 3.9rem;
+  width: 36.5rem;
+  height: 53.2rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 0;
+  border: solid 0.2rem #132346;
+  backdrop-filter: blur(0.1rem);
+  background: linear-gradient(180.04deg, rgba(4, 19, 52, 0.7799999714) -3.2%, rgba(15, 36, 83, 0.6200000048) 99.46%);
+  border-radius: 5rem;
+  box-shadow: 0 0.1rem 8rem rgba(255, 255, 255, 0.0500000007);
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .your-portfolio-is-up-213-VYy {
+  margin-bottom: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .your-portfolio-is-up-213-VYy .your-portfolio-is-up-213-VYy-sub-0 {
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .your-portfolio-is-up-213-VYy .your-portfolio-is-up-213-VYy-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR {
+  margin: 0 0.2rem;
+  width: calc(100% - 0.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .bitcoin-logo-6219385960720-tN9 {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF .group-38-1LH {
+  margin-right: 7.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF .group-38-1LH .bitcoin-mim {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF .group-38-1LH .btc-HSD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF .item-133-E6Z {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-41-CVK .auto-group-ma93-UbF .vector-Mws {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .eth-diamond-black-white-paZ {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 96rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 .group-39-HDF {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 .group-39-HDF .ethereum-pU5 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 .group-39-HDF .eth-Miu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 .item-214-SEZ {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-nsyj-HNM .group-42-gDT .auto-group-dnw1-kz1 .vector-AwF {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .litecoin-blockchain-cryptocurrency-logo-vector-open-source-finance-concept53876-126024-2Cm {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 100rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X .group-40-qR7 {
+  margin-right: 6.9rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X .group-40-qR7 .litecoin-Bjs {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X .group-40-qR7 .ltc-LMs {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X .item-081-3n5 {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .group-43-WkD .auto-group-qu77-X9X .vector-YD3 {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM {
+  box-sizing: border-box;
+  padding-top: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .bitcoin-logo-6219385960720-hVF {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 36rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 .group-38-ZGZ {
+  margin-right: 7.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 .group-38-ZGZ .bitcoin-Jzq {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 .group-38-ZGZ .btc-TMw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 .item-133-bj3 {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-44-yJM .auto-group-ikwz-Rg9 .vector-U29 {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .eth-diamond-black-white-wwK {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 96rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX .group-39-CMT {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX .group-39-CMT .ethereum-Kws {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX .group-39-CMT .eth-gGd {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX .item-214-dBs {
+  margin-right: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #00ff47;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .reasons-Stu .auto-group-3an1-iqj .group-48-qUR .group-47-jZo .group-46-kNR .auto-group-mdgq-FNM .group-45-1Gy .auto-group-eavb-fMX .vector-kGV {
+  margin-top: 0.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy {
+  margin: 0rem 0rem 1.7rem 0.4rem;
+  box-sizing: border-box;
+  padding: 7rem 2.2rem 7rem 10.3rem;
+  width: 144rem;
+  height: 41.5rem;
+  background-color: #00092a;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .logo-uSD {
+  width: 31.0972rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.1011rem;
+  top: -0rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 {
+  box-sizing: border-box;
+  padding-left: 8rem;
+  width: 76rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 55.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #00092a;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq {
+  width: 14.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .company-VvD {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w {
+  width: 100%;
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .about-us-hFb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .terms-of-use-brm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .privacy-policy-wvd {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .community-rules-h97 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .disclaimer-FAd {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .group-57-kSq .group-53-C3w .methodology-ze1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs {
+  box-sizing: border-box;
+  padding: 0rem 8rem 0rem 12rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND {
+  margin-right: 12rem;
+  width: 13.3rem;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .support-24u {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .group-54-Zad {
+  width: 100%;
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .group-54-Zad .requested-form-g9T {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .group-54-Zad .contact-support-PZf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .group-54-Zad .faqs-KiD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-58-HND .group-54-Zad .glossary-F65 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .socials-uwK {
+  margin-bottom: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm {
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm .facebook-PrV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm .instagram-YUV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm .twitter-HS5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm .youtube-2uT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .frame-60-dd7 .auto-group-gccu-Lhs .group-59-aPF .group-55-rLm .telegram-9z5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-S2q .footer-5xy .group-83-BFK .coinintentions-mission-is-to-make-investing-in-cryptocurrencies-easy-and-efficient-coinintention-tracks-various-data-of-cryptocurrencies-and-thus-offers-its-users-an-overview-of-all-cryptocurrencies-available-on-the-market-and-their-performance-market-capitalization-trading-volume-etc-1mP {
+  width: 59.8rem;
+  height: 18rem;
+  position: absolute;
+  left: 0;
+  top: 6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.component-1-S2q .coinintention-all-rights-reserved-ZgR {
+  margin-left: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.side{
+  display: none;
+}
+.nav_card {
+  border: 1px solid red;
+  width: 80%;
+  position: absolute;
+  top: 38%;
+  height: 80vh;
+  margin-left: 46%;
+  background: white;
+  z-index: 9;
+}
